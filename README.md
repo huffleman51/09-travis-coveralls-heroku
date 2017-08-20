@@ -1,3 +1,6 @@
+![Build Status](https://travis-ci.org/huffleman51/09-travis-coveralls-heroku.svg?branch=master)
+
+
 Tutorial that I followed is [here](https://github.com/huffleman51/js-stack-from-scratch/blob/master/tutorial/09-travis-coveralls-heroku.md#readme).
 
 # What I learned in this module
