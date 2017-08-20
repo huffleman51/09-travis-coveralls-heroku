@@ -10,3 +10,5 @@ Tutorial that I followed is [here](https://github.com/huffleman51/js-stack-from-
 1. Travis CI is a popular continuous integration platform, free for open source projects.
 1. If your project is hosted publicly on Github, integrating Travis is very simple. First, authenticate with your Github account on Travis, and add your repository.
 1. Coveralls is a service that gives you a history and statistics of your test coverage.
+1. Show build status and coverage status in your readme file using badges.  You can use the badge image links provided by Travis and Coveralls or you can use shields.io (I choose shields.io)
+1. Heroku is a PaaS to deploy to. It takes care of infrastructure details, so you can focus on developing your app without worrying about what happens behind the scenes.
