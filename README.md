@@ -2,6 +2,8 @@
 
 [![Build Status](https://img.shields.io/travis/huffleman51/09-travis-coveralls-heroku.svg)](https://travis-ci.org/huffleman51/09-travis-coveralls-heroku)
 [![Coverage Status](https://img.shields.io/coveralls/huffleman51/09-travis-coveralls-heroku.svg)](https://coveralls.io/github/huffleman51/09-travis-coveralls-heroku?branch=master)
+[![Dependencies](https://img.shields.io/david/huffleman51/js-stack-09-travis-coveralls-heroku.svg)](https://david-dm.org/huffleman51/09-travis-coveralls-heroku)
+[![Dev Dependencies](https://img.shields.io/david/dev/huffleman51/09-travis-coveralls-heroku.svg)](https://david-dm.org/huffleman51/09-travis-coveralls-heroku?type=dev)
 
 Tutorial that I followed is [here](https://github.com/huffleman51/js-stack-from-scratch/blob/master/tutorial/09-travis-coveralls-heroku.md#readme).
 

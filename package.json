@@ -1,5 +1,5 @@
 {
-  "name": "06-react-router-ssr-helmet",
+  "name": "09-travis-coveralls-heroku",
   "version": "1.0.0",
   "license": "MIT",
   "browserslist": [
