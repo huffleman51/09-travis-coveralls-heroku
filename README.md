@@ -1,7 +1,6 @@
 # 09 - Travis, Coveralls, and Heroku
 
-![Build Status](https://travis-ci.org/huffleman51/09-travis-coveralls-heroku)
-
+[![Build Status](https://img.shields.io/travis/huffleman51/09-travis-coveralls-heroku.svg)](https://travis-ci.org/huffleman51/09-travis-coveralls-heroku)
 
 Tutorial that I followed is [here](https://github.com/huffleman51/js-stack-from-scratch/blob/master/tutorial/09-travis-coveralls-heroku.md#readme).
 
